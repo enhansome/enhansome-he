@@ -1,0 +1,1051 @@
+{
+  "items": [
+    {
+      "description": "Libraries that can be used to implement applications using (Fully) Homomorphic Encryption.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fhEVM",
+          "description": "Solidity library that enables confidential smart contracts on the Ethereum VM using FHE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T12:24:44Z",
+            "owner": "zama-ai",
+            "repo": "fhevm",
+            "stars": 25075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft SEAL",
+          "description": "C++ FHE library implementing BFV and CKKS schemes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T04:34:37Z",
+            "owner": "microsoft",
+            "repo": "SEAL",
+            "stars": 4006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HElib",
+          "description": "BGV scheme with bootstrapping and the Approximate Number CKKS scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-01T20:47:02Z",
+            "owner": "homenc",
+            "repo": "HElib",
+            "stars": 3246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TFHE-rs",
+          "description": "Rust implementation of the TFHE scheme for boolean and integers FHE arithmetics by Zama.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T12:27:12Z",
+            "owner": "zama-ai",
+            "repo": "tfhe-rs",
+            "stars": 1640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lattigo",
+          "description": "Go library for lattice-based crypto that implements various schemes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-16T13:01:24Z",
+            "owner": "tuneinsight",
+            "repo": "lattigo",
+            "stars": 1437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfhe",
+          "description": "Faster fully HE: Bootstrapping in less than 0.1 seconds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-17T09:04:36Z",
+            "owner": "tfhe",
+            "repo": "tfhe",
+            "stars": 1324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFHE",
+          "description": "C++ FHE library implementing all major schemes along with bootstrapping and scheme switching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:41:03Z",
+            "owner": "openfheorg",
+            "repo": "openfhe-development",
+            "stars": 1174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TenSEAL",
+          "description": "Library for HE operations on tensors, built on Microsoft SEAL, with a Python API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T09:02:35Z",
+            "owner": "OpenMined",
+            "repo": "TenSEAL",
+            "stars": 1034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-paillier",
+          "description": "Partially HE based on Paillier scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-04T08:19:39Z",
+            "owner": "data61",
+            "repo": "python-paillier",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyfhel",
+          "description": "A Python wrapper for SEAL, HElib, and PALISADE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cython",
+            "last_commit": "2025-08-21T22:36:33Z",
+            "owner": "ibarrond",
+            "repo": "Pyfhel",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NuFHE",
+          "description": "GPU-accelerated HE library, faster than cuFHE, that implements the tfhe algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-06-21T21:29:13Z",
+            "owner": "nucypher",
+            "repo": "nufhe",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cupcake",
+          "description": "Facebook's Rust library for the (additive version of the) Fan-Vercauteren scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-09-29T16:24:59Z",
+            "owner": "facebookresearch",
+            "repo": "Cupcake",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blyss",
+          "description": "Rust FHE library specialized for private information retrieval. Includes bindings to JS & Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-03-21T17:35:15Z",
+            "owner": "blyssprivacy",
+            "repo": "sdk",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SEAL-python",
+          "description": "Python binding for the Microsoft SEAL library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T07:48:51Z",
+            "owner": "Huelse",
+            "repo": "SEAL-Python",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sunscreen",
+          "description": "Rust compiler for the BFV fully homomorphic encryption scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-31T16:17:51Z",
+            "owner": "Sunscreen-tech",
+            "repo": "Sunscreen",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cuFHE",
+          "description": "CUDA-accelerated Fully Homomorphic Encryption Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2021-07-07T14:50:29Z",
+            "owner": "vernamlab",
+            "repo": "cuFHE",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FHEW",
+          "description": "A Fully HE library based on FHEW: Bootstrapping Homomorphic Encryption in less than a second.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-01-03T05:37:57Z",
+            "owner": "lducas",
+            "repo": "FHEW",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Λ ○ λ",
+          "description": "\"Lol\" Haskell library for ring-based lattice cryptography that supports FHE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2021-03-22T14:10:51Z",
+            "owner": "cpeikert",
+            "repo": "Lol",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-seal",
+          "description": "JavaScript/WebAssembly port of Microsoft SEAL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-09T23:14:17Z",
+            "owner": "s0l0ist",
+            "repo": "node-seal",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cuHE",
+          "description": "GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2017-06-08T20:26:33Z",
+            "owner": "vernamlab",
+            "repo": "cuHE",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFLlib",
+          "description": "NTT-based Fast Lattice library specialized on power-of-two polynomials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-10-14T22:25:00Z",
+            "owner": "quarkslab",
+            "repo": "NFLlib",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFHE-Python",
+          "description": "Python wrapper for OpenFHE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-19T16:54:45Z",
+            "owner": "openfheorg",
+            "repo": "openfhe-python",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhantomFHE",
+          "description": "A CUDA-Accelerated Fully Homomorphic Encryption Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2025-01-01T16:35:08Z",
+            "owner": "encryptorion-lab",
+            "repo": "phantom-fhe",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HEonGPU",
+          "description": "CUDA-accelerated FHE library on GPUs (BFV, CKKS, MPC).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2026-05-11T09:26:34Z",
+            "owner": "Alisah-Ozcan",
+            "repo": "HEonGPU",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "petlib",
+          "description": "Python library that implements a number of Privacy Enhancing Technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-26T13:28:45Z",
+            "owner": "gdanezis",
+            "repo": "petlib",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LightPHE",
+          "description": "A Python wrapping Partially HE library (RSA, ElGamal, Paillier, Damgard-Jurik, Benaloh, and more).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-13T14:24:09Z",
+            "owner": "serengil",
+            "repo": "LightPHE",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FV-NFLlib",
+          "description": "A header-only library implementing the Fan-Vercauteren scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-07-26T14:46:21Z",
+            "owner": "CryptoExperts",
+            "repo": "FV-NFLlib",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFHE-Rust",
+          "description": "Rust wrapper for OpenFHE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-26T10:51:24Z",
+            "owner": "fairmath",
+            "repo": "openfhe-rs",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "krypto",
+          "description": "C++ implementation of multivariate quadratic FHE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-10-26T20:32:15Z",
+            "owner": "kryptnostic",
+            "repo": "krypto",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FINAL",
+          "description": "C++ FHE library based on NTRU and LWE scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-26T23:10:03Z",
+            "owner": "KULeuven-COSIC",
+            "repo": "FINAL",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libScarab",
+          "description": "C library implementing a FHE scheme using large integers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Mathematica",
+            "last_commit": "2015-08-26T20:35:39Z",
+            "owner": "hcrypt-project",
+            "repo": "libScarab",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HEMat",
+          "description": "C++ implementation of matrix computation (addition, multiplication, and transposition) using HEANN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-08-07T20:19:51Z",
+            "owner": "K-miran",
+            "repo": "HEMat",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HEAAN-Python",
+          "description": "Python binding for the HEANN library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-27T15:37:02Z",
+            "owner": "Huelse",
+            "repo": "HEAAN-Python",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libshe",
+          "description": "Symmetric somewhat HE library based on DGHV scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-08-08T23:34:25Z",
+            "owner": "bogdan-kulynych",
+            "repo": "libshe",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cuYASHE",
+          "description": "Based on leveled fully HE scheme YASHE for GPGPUs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2026-04-06T12:55:06Z",
+            "owner": "cuyashe-library",
+            "repo": "cuyashe",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SparkFHE",
+          "description": "Apache Spark with an add-on for FHE computations. See :page_facing_up:.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2020-09-30T21:38:17Z",
+            "owner": "SpiRITlab",
+            "repo": "spark",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HEAAN",
+          "description": "Scheme with native support for fixed point approximate arithmetic.",
+          "children": []
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google's FHE Repository",
+          "description": "A compiler that converts a subset of C++ programs into FHE circuits implemented in various backend libraries (superseded by HEIR).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-08-12T23:35:06Z",
+            "owner": "google",
+            "repo": "fully-homomorphic-encryption",
+            "stars": 3643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Concrete",
+          "description": "TFHE compiler for converting Python programs into FHE equivalents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-12-19T15:19:04Z",
+            "owner": "zama-ai",
+            "repo": "concrete",
+            "stars": 1572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Concrete-ML",
+          "description": "Python-based toolkit for data scientists w/o prior FHE knowledge (using sklearn, pyTorch, XGBoost models).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:50:16Z",
+            "owner": "zama-ai",
+            "repo": "concrete-ml",
+            "stars": 1445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HEIR",
+          "description": "Google's MLIR-based toolchain for FHE compilers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MLIR",
+            "last_commit": "2026-08-13T05:27:18Z",
+            "owner": "google",
+            "repo": "heir",
+            "stars": 764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cingulata",
+          "description": "Compiler toolchain and RTE for running C++ programs over encrypted data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-13T12:35:02Z",
+            "owner": "CEA-LIST",
+            "repo": "Cingulata",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVA",
+          "description": "A compiler and optimizer for the CKKS scheme (targeting Microsoft SEAL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-03T18:06:04Z",
+            "owner": "microsoft",
+            "repo": "EVA",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E3",
+          "description": "Encrypt-Everything-Everywhere framework for compiling C++ programs with encrypted operands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2023-03-03T11:43:11Z",
+            "owner": "momalab",
+            "repo": "e3",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS HE toolkit",
+          "description": "Simplifies the process of designing circuits for the CKKS scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-05T13:57:30Z",
+            "owner": "awslabs",
+            "repo": "homomorphic-implementors-toolkit",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALCHEMY",
+          "description": "Haskell-based DSLs and interpreters/compilers, build on top of the lattice crypto library Lol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2020-06-01T19:17:30Z",
+            "owner": "cpeikert",
+            "repo": "ALCHEMY",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SHEEP",
+          "description": "HE evaluation platform with a set of native benchmarks and a library agnostic language.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-04-07T17:43:59Z",
+            "owner": "alan-turing-institute",
+            "repo": "SHEEP",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IBM HElayers",
+          "description": "IBM's FHE SDK for practical and efficient execution of encrypted workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-30T09:29:14Z",
+            "owner": "IBM",
+            "repo": "helayers",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "T2",
+          "description": "A cross compiler and standardized benchmarks for FHE computation that targets lattigo, HElib, PALISADE, Microsoft SEAL, and tfhe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-29T21:16:57Z",
+            "owner": "TrustworthyComputing",
+            "repo": "T2-FHE-Compiler-and-Benchmarks",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marble",
+          "description": "C++ framework that translates between nearly plaintext-style user programs and FHE computations.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-12-23T12:26:48Z",
+            "owner": "MarbleHE",
+            "repo": "Marble",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Toolkits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tf-encrypted",
+          "description": "Bridge between TensorFlow and the Microsoft SEAL library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-25T05:32:38Z",
+            "owner": "tf-encrypted",
+            "repo": "tf-encrypted",
+            "stars": 1243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFHE demo applications",
+          "description": "Several demo applications that demonstrate some of the capabilities of OpenFHE",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "logreg-training-examples",
+              "description": "Logistic Regression Training Examples.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-05-21T01:34:24Z",
+                "owner": "openfheorg",
+                "repo": "openfhe-logreg-training-examples",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "genomic-examples",
+              "description": "Prototypes for secure genome-wide association studies using homomorphic encryption.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-07-07T21:02:52Z",
+                "owner": "openfheorg",
+                "repo": "openfhe-genomic-examples",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "boolean-circuit-evaluator",
+              "description": "Demonstration application to read in boolean circuits using multiple formats and execute them in encrypted form based on binfhe module for encrypted boolean logic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2023-10-26T18:18:52Z",
+                "owner": "openfheorg",
+                "repo": "openfhe-boolean-circuit-evaluator",
+                "stars": 6
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:41:03Z",
+            "owner": "openfheorg",
+            "repo": "openfhe-development",
+            "stars": 1174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rosetta",
+          "description": "A privacy-preserving framework based on TensorFlow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-04-26T02:21:22Z",
+            "owner": "LatticeX-Foundation",
+            "repo": "Rosetta",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nGraph-HE",
+          "description": "Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on SEAL.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-01-03T22:58:26Z",
+            "owner": "intel",
+            "repo": "he-transformer",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crypto-geofence",
+          "description": "Geo-fencing demo application based on Paillier scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-10T18:37:23Z",
+            "owner": "Georeactor",
+            "repo": "encrypted-geofence",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lattigo-polls",
+          "description": "Web-application for scheduling meetings using lattigo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-09-02T08:50:42Z",
+            "owner": "ldsec",
+            "repo": "lattigo-polls-demo",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "OpenMined",
+          "description": "Decentralized data ownership & intelligence based on HE and deep / federated learning.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PySyft",
+              "description": "Python library for the server/IoT part of the OpenMined's open-source ecosystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T22:26:40Z",
+                "owner": "OpenMined",
+                "repo": "PySyft",
+                "stars": 9938
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "syft.js",
+              "description": "JavaScript library for the web part of the OpenMined's open-source ecosystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-07T18:59:26Z",
+                "owner": "OpenMined",
+                "repo": "syft.js",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KotlinSyft",
+              "description": "Kotlin library for the Android part of the OpenMined's open-source ecosystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2021-08-20T19:03:21Z",
+                "owner": "OpenMined",
+                "repo": "KotlinSyft",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftSyft",
+              "description": "Swift library for the iOS part of the OpenMined's open-source ecosystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2021-09-06T13:51:27Z",
+                "owner": "OpenMined",
+                "repo": "SwiftSyft",
+                "stars": 51
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ZeroDB",
+          "description": "E2E encrypted database using proxy re-encryption.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-06-11T20:39:13Z",
+            "owner": "nucypher",
+            "repo": "zerodb",
+            "stars": 1546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryptDB",
+          "description": "Protecting confidentiality with encrypted query processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-12-15T10:50:29Z",
+            "owner": "CryptDB",
+            "repo": "cryptdb",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TimeCrypt",
+          "description": "Encrypted time-series database using homomorphic encryption-based access control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-08-03T15:26:32Z",
+            "owner": "TimeCrypt",
+            "repo": "timecrypt",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prisma/DB",
+          "description": "Security layer for relational database systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2020-08-24T07:55:09Z",
+            "owner": "aprismatic",
+            "repo": "prismadb",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "encrypted-mongodb",
+          "description": "Wrapper on MongoDB's Python driver that enables to query encrypted data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-15T17:57:51Z",
+            "owner": "pdroalves",
+            "repo": "encrypted-mongodb",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-cryptography",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-15T08:39:47Z",
+            "owner": "sobolevn",
+            "repo": "awesome-cryptography",
+            "stars": 7063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-crypto-papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-17T18:13:08Z",
+            "owner": "pFarb",
+            "repo": "awesome-crypto-papers",
+            "stars": 2086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-mpc",
+          "description": "Multi-Party Computation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-24T13:46:57Z",
+            "owner": "rdragos",
+            "repo": "awesome-mpc",
+            "stars": 1988
+          }
+        }
+      ],
+      "title": "Related awesome lists"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "✨ Star this project on GitHub\n🚀 Contribute further awesome HE projects\n💸 Spare me some coffee tea 🍵 via Paypal",
+      "items": [],
+      "title": "Like this work?"
+    },
+    {
+      "description": "To the extent possible under law, Jonathan Schneider has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:32:31.191Z",
+    "original_repository": "jonaschn/awesome-he",
+    "original_repository_sha": "d2a825c3f720f5725cc73e22806e2483c021efa2",
+    "enhanced_repository": "enhansome/enhansome-he",
+    "enhanced_repository_description": null,
+    "title": "Awesome Homomorphic Encryption with stars"
+  }
+}
