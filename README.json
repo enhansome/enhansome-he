@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T12:24:44Z",
+            "last_commit": "2026-08-14T11:47:05Z",
             "owner": "zama-ai",
             "repo": "fhevm",
-            "stars": 25075
+            "stars": 25072
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-04T04:34:37Z",
             "owner": "microsoft",
             "repo": "SEAL",
-            "stars": 4006
+            "stars": 4007
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-08-01T20:47:02Z",
             "owner": "homenc",
             "repo": "HElib",
-            "stars": 3246
+            "stars": 3247
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T12:27:12Z",
+            "last_commit": "2026-08-14T12:25:52Z",
             "owner": "zama-ai",
             "repo": "tfhe-rs",
-            "stars": 1640
+            "stars": 1641
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2025-09-17T09:04:36Z",
             "owner": "tfhe",
             "repo": "tfhe",
-            "stars": 1324
+            "stars": 1325
           }
         },
         {
@@ -95,10 +95,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T01:41:03Z",
+            "last_commit": "2026-08-14T07:18:53Z",
             "owner": "openfheorg",
             "repo": "openfhe-development",
-            "stars": 1174
+            "stars": 1175
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-08-04T09:02:35Z",
             "owner": "OpenMined",
             "repo": "TenSEAL",
-            "stars": 1034
+            "stars": 1033
           }
         },
         {
@@ -527,10 +527,10 @@
           "repo_info": {
             "archived": false,
             "language": "Starlark",
-            "last_commit": "2026-08-12T23:35:06Z",
+            "last_commit": "2026-08-14T10:41:08Z",
             "owner": "google",
             "repo": "fully-homomorphic-encryption",
-            "stars": 3643
+            "stars": 3646
           }
         },
         {
@@ -569,7 +569,7 @@
           "repo_info": {
             "archived": false,
             "language": "MLIR",
-            "last_commit": "2026-08-13T05:27:18Z",
+            "last_commit": "2026-08-14T12:19:39Z",
             "owner": "google",
             "repo": "heir",
             "stars": 764
@@ -772,10 +772,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T01:41:03Z",
+            "last_commit": "2026-08-14T07:18:53Z",
             "owner": "openfheorg",
             "repo": "openfhe-development",
-            "stars": 1174
+            "stars": 1175
           }
         },
         {
@@ -850,7 +850,7 @@
                 "last_commit": "2026-08-12T22:26:40Z",
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 9938
+                "stars": 9937
               }
             },
             {
@@ -990,7 +990,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7063
+            "stars": 7066
           }
         },
         {
@@ -1004,7 +1004,7 @@
             "last_commit": "2024-10-17T18:13:08Z",
             "owner": "pFarb",
             "repo": "awesome-crypto-papers",
-            "stars": 2086
+            "stars": 2087
           }
         },
         {
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:32:31.191Z",
+    "last_updated": "2026-08-14T12:28:11.446Z",
     "original_repository": "jonaschn/awesome-he",
     "original_repository_sha": "d2a825c3f720f5725cc73e22806e2483c021efa2",
     "enhanced_repository": "enhansome/enhansome-he",
