@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T08:47:52Z",
+            "last_commit": "2026-08-15T12:08:50Z",
             "owner": "zama-ai",
             "repo": "fhevm",
-            "stars": 24949
+            "stars": 24948
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-04T04:34:37Z",
             "owner": "microsoft",
             "repo": "SEAL",
-            "stars": 4007
+            "stars": 4008
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T14:30:53Z",
+            "last_commit": "2026-08-16T02:53:20Z",
             "owner": "zama-ai",
             "repo": "tfhe-rs",
             "stars": 1642
@@ -126,7 +126,7 @@
             "last_commit": "2023-08-04T08:19:39Z",
             "owner": "data61",
             "repo": "python-paillier",
-            "stars": 639
+            "stars": 640
           }
         },
         {
@@ -530,7 +530,7 @@
             "last_commit": "2026-08-14T12:57:23Z",
             "owner": "google",
             "repo": "fully-homomorphic-encryption",
-            "stars": 3664
+            "stars": 3678
           }
         },
         {
@@ -569,10 +569,10 @@
           "repo_info": {
             "archived": false,
             "language": "MLIR",
-            "last_commit": "2026-08-15T01:40:13Z",
+            "last_commit": "2026-08-16T01:38:55Z",
             "owner": "google",
             "repo": "heir",
-            "stars": 808
+            "stars": 828
           }
         },
         {
@@ -850,7 +850,7 @@
                 "last_commit": "2026-08-14T12:39:22Z",
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 9937
+                "stars": 9936
               }
             },
             {
@@ -990,7 +990,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7067
+            "stars": 7069
           }
         },
         {
@@ -1004,7 +1004,7 @@
             "last_commit": "2024-10-17T18:13:08Z",
             "owner": "pFarb",
             "repo": "awesome-crypto-papers",
-            "stars": 2087
+            "stars": 2089
           }
         },
         {
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:57:13.451Z",
+    "last_updated": "2026-08-16T11:57:25.634Z",
     "original_repository": "jonaschn/awesome-he",
     "original_repository_sha": "d2a825c3f720f5725cc73e22806e2483c021efa2",
     "enhanced_repository": "enhansome/enhansome-he",
