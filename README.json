@@ -12,7 +12,7 @@
             "archived": false,
             "id": 976568879,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:07:03Z",
+            "last_commit": "2026-08-20T11:31:50Z",
             "owner": "zama-ai",
             "repo": "fhevm",
             "stars": 24940
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-04T04:34:37Z",
             "owner": "microsoft",
             "repo": "SEAL",
-            "stars": 4012
+            "stars": 4013
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-08-01T20:47:02Z",
             "owner": "homenc",
             "repo": "HElib",
-            "stars": 3248
+            "stars": 3247
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 550755640,
             "language": "Rust",
-            "last_commit": "2026-08-19T11:28:42Z",
+            "last_commit": "2026-08-20T11:59:09Z",
             "owner": "zama-ai",
             "repo": "tfhe-rs",
             "stars": 1644
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 466273132,
             "language": "C++",
-            "last_commit": "2026-08-19T10:30:48Z",
+            "last_commit": "2026-08-19T23:39:17Z",
             "owner": "openfheorg",
             "repo": "openfhe-development",
-            "stars": 1178
+            "stars": 1180
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2023-08-04T08:19:39Z",
             "owner": "data61",
             "repo": "python-paillier",
-            "stars": 640
+            "stars": 639
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2020-08-27T15:37:02Z",
             "owner": "Huelse",
             "repo": "HEAAN-Python",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-16T17:37:09Z",
             "owner": "google",
             "repo": "fully-homomorphic-encryption",
-            "stars": 3696
+            "stars": 3699
           }
         },
         {
@@ -603,10 +603,10 @@
             "archived": false,
             "id": 629208802,
             "language": "MLIR",
-            "last_commit": "2026-08-19T11:16:35Z",
+            "last_commit": "2026-08-20T09:24:57Z",
             "owner": "google",
             "repo": "heir",
-            "stars": 855
+            "stars": 858
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2026-06-30T09:29:14Z",
             "owner": "IBM",
             "repo": "helayers",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -820,10 +820,10 @@
             "archived": false,
             "id": 466273132,
             "language": "C++",
-            "last_commit": "2026-08-19T10:30:48Z",
+            "last_commit": "2026-08-19T23:39:17Z",
             "owner": "openfheorg",
             "repo": "openfhe-development",
-            "stars": 1178
+            "stars": 1180
           }
         },
         {
@@ -900,10 +900,10 @@
                 "archived": false,
                 "id": 97641933,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:31:39Z",
+                "last_commit": "2026-08-19T13:00:48Z",
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 9947
+                "stars": 9954
               }
             },
             {
@@ -1052,7 +1052,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7077
+            "stars": 7081
           }
         },
         {
@@ -1067,7 +1067,7 @@
             "last_commit": "2024-10-17T18:13:08Z",
             "owner": "pFarb",
             "repo": "awesome-crypto-papers",
-            "stars": 2089
+            "stars": 2092
           }
         },
         {
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:30.062Z",
+    "last_updated": "2026-08-20T12:02:06.036Z",
     "original_repository": "jonaschn/awesome-he",
     "original_repository_id": 122284251,
     "original_repository_sha": "d2a825c3f720f5725cc73e22806e2483c021efa2",
