@@ -12,10 +12,10 @@
             "archived": false,
             "id": 976568879,
             "language": "Rust",
-            "last_commit": "2026-08-22T08:48:44Z",
+            "last_commit": "2026-08-23T06:25:20Z",
             "owner": "zama-ai",
             "repo": "fhevm",
-            "stars": 24919
+            "stars": 24918
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T20:22:04Z",
             "owner": "zama-ai",
             "repo": "tfhe-rs",
-            "stars": 1646
+            "stars": 1645
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-16T13:01:24Z",
             "owner": "tuneinsight",
             "repo": "lattigo",
-            "stars": 1440
+            "stars": 1439
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 236181743,
             "language": "C++",
-            "last_commit": "2026-08-22T11:14:09Z",
+            "last_commit": "2026-08-22T21:26:13Z",
             "owner": "OpenMined",
             "repo": "TenSEAL",
             "stars": 1033
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-16T17:37:09Z",
             "owner": "google",
             "repo": "fully-homomorphic-encryption",
-            "stars": 3704
+            "stars": 3706
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2025-12-19T15:19:04Z",
             "owner": "zama-ai",
             "repo": "concrete",
-            "stars": 1573
+            "stars": 1574
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-08-04T11:50:16Z",
             "owner": "zama-ai",
             "repo": "concrete-ml",
-            "stars": 1446
+            "stars": 1445
           }
         },
         {
@@ -603,10 +603,10 @@
             "archived": false,
             "id": 629208802,
             "language": "MLIR",
-            "last_commit": "2026-08-22T01:38:12Z",
+            "last_commit": "2026-08-23T01:35:59Z",
             "owner": "google",
             "repo": "heir",
-            "stars": 860
+            "stars": 863
           }
         },
         {
@@ -1052,7 +1052,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7084
+            "stars": 7085
           }
         },
         {
@@ -1067,7 +1067,7 @@
             "last_commit": "2024-10-17T18:13:08Z",
             "owner": "pFarb",
             "repo": "awesome-crypto-papers",
-            "stars": 2092
+            "stars": 2091
           }
         },
         {
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:57:48.489Z",
+    "last_updated": "2026-08-23T11:57:40.488Z",
     "original_repository": "jonaschn/awesome-he",
     "original_repository_id": 122284251,
     "original_repository_sha": "d2a825c3f720f5725cc73e22806e2483c021efa2",
