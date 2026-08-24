@@ -12,7 +12,7 @@
             "archived": false,
             "id": 976568879,
             "language": "Rust",
-            "last_commit": "2026-08-24T11:59:47Z",
+            "last_commit": "2026-08-24T13:47:05Z",
             "owner": "zama-ai",
             "repo": "fhevm",
             "stars": 24914
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 550755640,
             "language": "Rust",
-            "last_commit": "2026-08-24T12:00:51Z",
+            "last_commit": "2026-08-24T14:02:07Z",
             "owner": "zama-ai",
             "repo": "tfhe-rs",
             "stars": 1646
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:02:02.353Z",
+    "last_updated": "2026-08-24T14:12:09.290Z",
     "original_repository": "jonaschn/awesome-he",
     "original_repository_id": 122284251,
     "original_repository_sha": "d2a825c3f720f5725cc73e22806e2483c021efa2",

@@ -14,10 +14,10 @@
 
 Libraries that can be used to implement applications using (Fully) Homomorphic Encryption.
 
-* [fhEVM](https://github.com/zama-ai/fhevm) ⭐ 24,914 | 🐛 120 | 🌐 Rust | 📅 2026-08-24 - Solidity library that enables confidential smart contracts on the Ethereum VM using FHE.
+* [fhEVM](https://github.com/zama-ai/fhevm) ⭐ 24,914 | 🐛 115 | 🌐 Rust | 📅 2026-08-24 - Solidity library that enables confidential smart contracts on the Ethereum VM using FHE.
 * <a name="SEAL">[Microsoft SEAL](https://github.com/microsoft/SEAL) ⭐ 4,014 | 🐛 118 | 🌐 C++ | 📅 2026-08-04 - C++ FHE library implementing BFV and CKKS schemes.</a>
 * <a name="HElib">[HElib](https://github.com/HomEnc/HElib) ⭐ 3,248 | 🐛 194 | 🌐 C++ | 📅 2024-08-01 - BGV scheme with bootstrapping and the Approximate Number CKKS scheme.
-* [TFHE-rs](https://github.com/zama-ai/tfhe-rs) ⭐ 1,646 | 🐛 55 | 🌐 Rust | 📅 2026-08-24 - Rust implementation of the TFHE scheme for boolean and integers FHE arithmetics by [Zama](https://github.com/zama-ai).
+* [TFHE-rs](https://github.com/zama-ai/tfhe-rs) ⭐ 1,646 | 🐛 56 | 🌐 Rust | 📅 2026-08-24 - Rust implementation of the TFHE scheme for boolean and integers FHE arithmetics by [Zama](https://github.com/zama-ai).
 * <a name="lattigo">[lattigo](https://github.com/ldsec/lattigo) ⭐ 1,440 | 🐛 7 | 🌐 Go | 📅 2026-06-16 - Go library for lattice-based crypto that implements various schemes.
 * <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) ⭐ 1,326 | 🐛 46 | 🌐 C++ | 📅 2025-09-17 - Faster fully HE: Bootstrapping in less than 0.1 seconds.</a>
 * <a name="OpenFHE">[OpenFHE](https://github.com/openfheorg/openfhe-development) ⭐ 1,183 | 🐛 96 | 🌐 C++ | 📅 2026-08-23 - C++ FHE library implementing all major schemes along with bootstrapping and scheme switching.
