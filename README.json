@@ -12,10 +12,10 @@
             "archived": false,
             "id": 976568879,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:40:16Z",
+            "last_commit": "2026-08-27T19:25:56Z",
             "owner": "zama-ai",
             "repo": "fhevm",
-            "stars": 24825
+            "stars": 24826
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-04T04:34:37Z",
             "owner": "microsoft",
             "repo": "SEAL",
-            "stars": 4018
+            "stars": 4019
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 550755640,
             "language": "Rust",
-            "last_commit": "2026-08-27T10:03:05Z",
+            "last_commit": "2026-08-27T19:09:15Z",
             "owner": "zama-ai",
             "repo": "tfhe-rs",
             "stars": 1646
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 466273132,
             "language": "C++",
-            "last_commit": "2026-08-27T02:10:12Z",
+            "last_commit": "2026-08-27T17:05:32Z",
             "owner": "openfheorg",
             "repo": "openfhe-development",
             "stars": 1183
@@ -420,7 +420,7 @@
             "last_commit": "2025-02-26T10:51:24Z",
             "owner": "fairmath",
             "repo": "openfhe-rs",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-16T17:37:09Z",
             "owner": "google",
             "repo": "fully-homomorphic-encryption",
-            "stars": 3708
+            "stars": 3709
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-08-04T11:50:16Z",
             "owner": "zama-ai",
             "repo": "concrete-ml",
-            "stars": 1445
+            "stars": 1446
           }
         },
         {
@@ -603,10 +603,10 @@
             "archived": false,
             "id": 629208802,
             "language": "MLIR",
-            "last_commit": "2026-08-27T06:48:40Z",
+            "last_commit": "2026-08-27T17:01:16Z",
             "owner": "google",
             "repo": "heir",
-            "stars": 877
+            "stars": 879
           }
         },
         {
@@ -820,7 +820,7 @@
             "archived": false,
             "id": 466273132,
             "language": "C++",
-            "last_commit": "2026-08-27T02:10:12Z",
+            "last_commit": "2026-08-27T17:05:32Z",
             "owner": "openfheorg",
             "repo": "openfhe-development",
             "stars": 1183
@@ -900,7 +900,7 @@
                 "archived": false,
                 "id": 97641933,
                 "language": "Python",
-                "last_commit": "2026-08-26T18:58:33Z",
+                "last_commit": "2026-08-27T13:32:48Z",
                 "owner": "OpenMined",
                 "repo": "PySyft",
                 "stars": 9957
@@ -1052,7 +1052,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7092
+            "stars": 7091
           }
         },
         {
@@ -1082,7 +1082,7 @@
             "last_commit": "2026-07-24T13:46:57Z",
             "owner": "rdragos",
             "repo": "awesome-mpc",
-            "stars": 1993
+            "stars": 1994
           }
         }
       ],
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:40.045Z",
+    "last_updated": "2026-08-27T21:18:55.809Z",
     "original_repository_info": {
       "archived": false,
       "id": 122284251,
@@ -1098,7 +1098,7 @@
       "last_commit": "2025-03-25T11:22:47Z",
       "owner": "jonaschn",
       "repo": "awesome-he",
-      "stars": 1257
+      "stars": 1256
     },
     "original_repository_sha": "d2a825c3f720f5725cc73e22806e2483c021efa2",
     "enhanced_repository": "enhansome/enhansome-he",
