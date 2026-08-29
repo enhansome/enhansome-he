@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+            "homepage": null,
             "id": 976568879,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:51:06Z",
+            "open_issues": 123,
             "owner": "zama-ai",
             "repo": "fhevm",
-            "stars": 24825
+            "stars": 24825,
+            "topics": [
+              "blockchain",
+              "fhe",
+              "privacy"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -26,12 +35,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.",
+            "homepage": "https://www.microsoft.com/en-us/research/group/cryptography-research/",
             "id": 156787357,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:43:18Z",
+            "open_issues": 113,
             "owner": "microsoft",
             "repo": "SEAL",
-            "stars": 4020
+            "stars": 4020,
+            "topics": [
+              "cryptography",
+              "encryption",
+              "homomorphic-encryption"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -42,12 +60,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations for efficient homomorphic evaluation, focusing on effective use of ciphertext packing techniques and on the Gentry-Halevi-Smart optimizations.",
+            "homepage": "https://homenc.github.io/HElib",
             "id": 9242293,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-01T20:47:02Z",
+            "open_issues": 194,
             "owner": "homenc",
             "repo": "HElib",
-            "stars": 3249
+            "stars": 3249,
+            "topics": [
+              "bgv",
+              "crypto",
+              "crypto-library",
+              "cryptography",
+              "encryption",
+              "encryption-library",
+              "helib",
+              "privacy-by-design",
+              "privacy-enhancing-technologies"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -58,12 +91,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TFHE-rs: A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.",
+            "homepage": null,
             "id": 550755640,
             "language": "Rust",
-            "last_commit": "2026-08-28T19:12:01Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:05:39Z",
+            "open_issues": 55,
             "owner": "zama-ai",
             "repo": "tfhe-rs",
-            "stars": 1646
+            "stars": 1646,
+            "topics": [
+              "cryptography",
+              "homomorphic-encryption",
+              "rust",
+              "tfhe"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -74,12 +117,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for lattice-based multiparty homomorphic encryption in Go",
+            "homepage": null,
             "id": 201955121,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-16T13:01:24Z",
+            "open_issues": 7,
             "owner": "tuneinsight",
             "repo": "lattigo",
-            "stars": 1441
+            "stars": 1441,
+            "topics": [
+              "homomorphic-encryption",
+              "lattice-based-crypto",
+              "secure-multi-party-computation"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -90,12 +142,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TFHE: Fast Fully Homomorphic Encryption Library over the Torus",
+            "homepage": null,
             "id": 59225224,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-17T09:04:36Z",
+            "open_issues": 46,
             "owner": "tfhe",
             "repo": "tfhe",
-            "stars": 1326
+            "stars": 1326,
+            "topics": [
+              "cloud-computing",
+              "cryptography",
+              "homomorphic-encryption-library"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -106,12 +167,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the development repository for the OpenFHE library. The current version is 1.5.1 (released on April 10, 2026).",
+            "homepage": null,
             "id": 466273132,
             "language": "C++",
-            "last_commit": "2026-08-28T21:25:59Z",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-08-29T01:28:00Z",
+            "open_issues": 99,
             "owner": "openfheorg",
             "repo": "openfhe-development",
-            "stars": 1189
+            "stars": 1189,
+            "topics": [
+              "cpp",
+              "cryptography",
+              "fhe",
+              "fully-homomorphic-encryption",
+              "homomorphic-encryption",
+              "homomorphic-encryption-library",
+              "lattice",
+              "privacy",
+              "secure-multiparty-computation"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -122,12 +198,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for doing homomorphic encryption operations on tensors",
+            "homepage": null,
             "id": 236181743,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T21:26:13Z",
+            "open_issues": 138,
             "owner": "OpenMined",
             "repo": "TenSEAL",
-            "stars": 1033
+            "stars": 1033,
+            "topics": [
+              "cpp",
+              "cryptography",
+              "deep-learning",
+              "docker-image",
+              "encryption",
+              "hacktoberfest",
+              "homomorphic-encryption",
+              "microsoft-seal",
+              "python",
+              "tensor"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -138,12 +230,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for Partially Homomorphic Encryption in Python",
+            "homepage": null,
             "id": 26207941,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-04T08:19:39Z",
+            "open_issues": 23,
             "owner": "data61",
             "repo": "python-paillier",
-            "stars": 639
+            "stars": 639,
+            "topics": [
+              "cryptography",
+              "homomorphic-encryption",
+              "paillier",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -154,12 +256,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PYthon For Homomorphic Encryption Libraries, perform encrypted computations such as sum, mult, scalar product or matrix multiplication in Python, with NumPy compatibility. Uses SEAL/PALISADE as backends, implemented using Cython.",
+            "homepage": "https://pyfhel.readthedocs.io/",
             "id": 94054659,
             "language": "Cython",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-21T22:36:33Z",
+            "open_issues": 8,
             "owner": "ibarrond",
             "repo": "Pyfhel",
-            "stars": 551
+            "stars": 551,
+            "topics": [
+              "cython",
+              "encrypted-computation",
+              "encrypted-data",
+              "helib",
+              "homomorphic-encryption",
+              "homomorphic-encryption-library",
+              "palisade",
+              "python",
+              "seal"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -170,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "NuCypher fully homomorphic encryption (NuFHE) library implemented in Python",
+            "homepage": "https://nufhe.readthedocs.io/en/latest/",
             "id": 128600765,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-06-21T21:29:13Z",
+            "open_issues": 25,
             "owner": "nucypher",
             "repo": "nufhe",
-            "stars": 453
+            "stars": 453,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -186,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Rust library for lattice-based additive homomorphic encryption. ",
+            "homepage": null,
             "id": 344243307,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-09-29T16:24:59Z",
+            "open_issues": 3,
             "owner": "facebookresearch",
             "repo": "Cupcake",
-            "stars": 419
+            "stars": 419,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -202,12 +329,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SDK for private data access, built on homomorphic encryption.",
+            "homepage": "https://blyss.dev",
             "id": 462183270,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-03-21T17:35:15Z",
+            "open_issues": 8,
             "owner": "blyssprivacy",
             "repo": "sdk",
-            "stars": 350
+            "stars": 350,
+            "topics": [
+              "homomorphic-encryption",
+              "privacy",
+              "private-information-retrieval"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -218,12 +354,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microsoft SEAL 4.X For Python",
+            "homepage": null,
             "id": 196965816,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-03T07:48:51Z",
+            "open_issues": 0,
             "owner": "Huelse",
             "repo": "SEAL-Python",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "encryption",
+              "he",
+              "homomorphic-encryption",
+              "microsoft-seal",
+              "pyseal",
+              "python-bindings",
+              "seal",
+              "seal-python"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -234,12 +384,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A compiler for fully homomorphic encryption and zero knowledge proofs",
+            "homepage": "https://github.com/Sunscreen-tech/Sunscreen/blob/main/sunscreen_docs/src/SUMMARY.md",
             "id": 424345781,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2025-08-31T16:17:51Z",
+            "open_issues": 16,
             "owner": "Sunscreen-tech",
             "repo": "Sunscreen",
-            "stars": 308
+            "stars": 308,
+            "topics": [
+              "cryptography",
+              "homomorphic-encryption",
+              "zero-knowledge"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -250,12 +409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CUDA-accelerated Fully Homomorphic Encryption Library",
+            "homepage": null,
             "id": 125254307,
             "language": "Cuda",
+            "license": "MIT",
             "last_commit": "2021-07-07T14:50:29Z",
+            "open_issues": 8,
             "owner": "vernamlab",
             "repo": "cuFHE",
-            "stars": 240
+            "stars": 240,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -266,12 +430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 27510095,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-01-03T05:37:57Z",
+            "open_issues": 5,
             "owner": "lducas",
             "repo": "FHEW",
-            "stars": 238
+            "stars": 238,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -282,12 +451,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Λ ⚬ λ: Functional Lattice Cryptography",
+            "homepage": null,
             "id": 43394401,
             "language": "Haskell",
+            "license": null,
             "last_commit": "2021-03-22T14:10:51Z",
+            "open_issues": 12,
             "owner": "cpeikert",
             "repo": "Lol",
-            "stars": 237
+            "stars": 237,
+            "topics": [
+              "cryptography",
+              "fully-homomorphic-encryption",
+              "haskell-library",
+              "lattices",
+              "lol",
+              "ring-lwe"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -298,12 +479,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Homomorphic Encryption for TypeScript or JavaScript - Microsoft SEAL",
+            "homepage": "https://s0l0ist.github.io/node-seal/",
             "id": 190240163,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-09T23:14:17Z",
+            "open_issues": 0,
             "owner": "s0l0ist",
             "repo": "node-seal",
-            "stars": 217
+            "stars": 217,
+            "topics": [
+              "crypto",
+              "cryptography",
+              "cryptosystem",
+              "emscripten",
+              "encryption",
+              "homomorphic",
+              "homomorphic-encryption",
+              "homomorphism",
+              "javascript",
+              "microsoft",
+              "microsoft-seal",
+              "node-seal",
+              "seal",
+              "web-assembly",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -314,12 +516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CUDA Homomorphic Encryption Library",
+            "homepage": null,
             "id": 49899380,
             "language": "Cuda",
+            "license": "MIT",
             "last_commit": "2017-06-08T20:26:33Z",
+            "open_issues": 4,
             "owner": "vernamlab",
             "repo": "cuHE",
-            "stars": 212
+            "stars": 212,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -330,12 +537,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NTT-based Fast Lattice library",
+            "homepage": null,
             "id": 46931019,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2022-10-14T22:25:00Z",
+            "open_issues": 10,
             "owner": "quarkslab",
             "repo": "NFLlib",
-            "stars": 181
+            "stars": 181,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -346,12 +558,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Python wrapper for OpenFHE.",
+            "homepage": "https://openfheorg.github.io/openfhe-python/html/index.html",
             "id": 580440874,
             "language": "C++",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-05-19T16:54:45Z",
+            "open_issues": 13,
             "owner": "openfheorg",
             "repo": "openfhe-python",
-            "stars": 161
+            "stars": 161,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -362,12 +579,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PhantomFHE: A CUDA-Accelerated Homomorphic Encryption Library",
+            "homepage": "https://encryptorion-lab.gitbook.io/phantom-fhe/",
             "id": 759640731,
             "language": "Cuda",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-01T16:35:08Z",
+            "open_issues": 8,
             "owner": "encryptorion-lab",
             "repo": "phantom-fhe",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "cuda",
+              "gpu",
+              "homomorphic-encryption",
+              "ppml"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -378,12 +605,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HEonGPU is a high-performance library that optimizes Fully Homomorphic Encryption (FHE) on GPUs. Leveraging GPU parallelism, it reduces computational load through concurrent execution. Its multi-stream architecture minimizes data transfer overhead, making it ideal for large-scale encrypted computations with reduced latency.",
+            "homepage": null,
             "id": 866783897,
             "language": "Cuda",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-11T09:26:34Z",
+            "open_issues": 7,
             "owner": "Alisah-Ozcan",
             "repo": "HEonGPU",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "bfv",
+              "bootstrapping",
+              "ckks",
+              "cryptography",
+              "fhe",
+              "fully-homomorphic-encryption",
+              "fully-homomorphic-encryption-library",
+              "gpu",
+              "gpu-acceleration",
+              "homomorphic-encryption",
+              "homomorphic-encryption-library",
+              "mpc",
+              "secure-multiparty-computation",
+              "tfhe"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -394,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python library that implements a number of Privacy Enhancing Technolgies",
+            "homepage": null,
             "id": 27001491,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-10-26T13:28:45Z",
+            "open_issues": 12,
             "owner": "gdanezis",
             "repo": "petlib",
-            "stars": 136
+            "stars": 136,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -410,12 +662,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Lightweight Partially Homomorphic Encryption Library for Python",
+            "homepage": "https://bit.ly/lightphe",
             "id": 711214934,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-13T14:24:09Z",
+            "open_issues": 0,
             "owner": "serengil",
             "repo": "LightPHE",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "benaloh",
+              "boneh-goh-nissim",
+              "cryptography",
+              "damgard-jurik",
+              "el-gamal",
+              "elliptic-curve",
+              "elliptic-curve-cryptography",
+              "goldwasser-micali",
+              "homomorphic",
+              "homomorphic-encryption",
+              "naccache-stern",
+              "okamoto-uchiyama",
+              "paillier",
+              "partially-homomorphic",
+              "public-key-cryptography",
+              "python",
+              "rsa",
+              "sander-young-yung",
+              "somewhat-homomorphic"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -426,12 +703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library implementing the Fan-Vercauteren homomorphic encryption scheme",
+            "homepage": null,
             "id": 58055509,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2016-07-26T14:46:21Z",
+            "open_issues": 2,
             "owner": "CryptoExperts",
             "repo": "FV-NFLlib",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -442,12 +724,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenFHE-rs - a Rust interface for the OpenFHE library; documentation https://openfhe-rust-wrapper.readthedocs.io/",
+            "homepage": "https://crates.io/crates/openfhe",
             "id": 773704173,
             "language": "C++",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-02-26T10:51:24Z",
+            "open_issues": 8,
             "owner": "fairmath",
             "repo": "openfhe-rs",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "cryptography",
+              "fhe",
+              "fhevm"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -458,12 +749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ Implementation of Multivariate Quadratic FHE ",
+            "homepage": null,
             "id": 27938570,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-10-26T20:32:15Z",
+            "open_issues": 0,
             "owner": "kryptnostic",
             "repo": "krypto",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -474,12 +770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fully homomorhic encryption scheme based on NTRU and LWE.",
+            "homepage": null,
             "id": 449311199,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-09-26T23:10:03Z",
+            "open_issues": 0,
             "owner": "KULeuven-COSIC",
             "repo": "FINAL",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -490,12 +791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Implementation of the Fully Homomorphic Smart-Vercauteren Cryptosystem",
+            "homepage": null,
             "id": 14985532,
             "language": "Mathematica",
+            "license": null,
             "last_commit": "2015-08-26T20:35:39Z",
+            "open_issues": 2,
             "owner": "hcrypt-project",
             "repo": "libScarab",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -506,12 +812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Homomorphic matrix computation ",
+            "homepage": null,
             "id": 144182946,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2019-08-07T20:19:51Z",
+            "open_issues": 3,
             "owner": "K-miran",
             "repo": "HEMat",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -522,12 +833,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HEAAN lib binds for Python",
+            "homepage": null,
             "id": 211053211,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-08-27T15:37:02Z",
+            "open_issues": 5,
             "owner": "Huelse",
             "repo": "HEAAN-Python",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "encryption",
+              "heaan",
+              "heaan-lib",
+              "heaan-python",
+              "homomorphic-encryption",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -538,12 +861,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Symmetric somewhat homomorphic encryption library based on DGHV",
+            "homepage": null,
             "id": 34542679,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2017-08-08T23:34:25Z",
+            "open_issues": 0,
             "owner": "bogdan-kulynych",
             "repo": "libshe",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "c-plus-plus",
+              "ciphertext-compression",
+              "cryptography",
+              "homomorphic-encryption",
+              "homomorphic-encryption-library"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -554,12 +888,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cuYASHE is the first implementation of the leveled fully homomorphic scheme YASHE on GPGPUs.",
+            "homepage": "http://www.iampedro.com",
             "id": 59241365,
             "language": "Cuda",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-06T12:55:06Z",
+            "open_issues": 3,
             "owner": "cuyashe-library",
             "repo": "cuyashe",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -570,12 +909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A forked of Apache Spark with support for fully homomorphic encryption (for research only)",
+            "homepage": null,
             "id": 154181360,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2020-09-30T21:38:17Z",
+            "open_issues": 0,
             "owner": "SpiRITlab",
             "repo": "spark",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         }
@@ -592,12 +936,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Homomorphic Encryption demos",
+            "homepage": null,
             "id": 364705340,
             "language": "Starlark",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T17:37:09Z",
+            "open_issues": 3,
             "owner": "google",
             "repo": "fully-homomorphic-encryption",
-            "stars": 3738
+            "stars": 3741,
+            "topics": [
+              "compiler",
+              "cryptography",
+              "encryption",
+              "fhe",
+              "fully-homomorphic-encryption",
+              "homomorphic-encryption",
+              "privacy"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -608,12 +965,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Concrete: TFHE Compiler that converts python programs into FHE equivalent",
+            "homepage": null,
             "id": 300205799,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-19T15:19:04Z",
+            "open_issues": 57,
             "owner": "zama-ai",
             "repo": "concrete",
-            "stars": 1574
+            "stars": 1574,
+            "topics": [
+              "compiler",
+              "crypto",
+              "cryptography",
+              "encryption",
+              "fhe",
+              "fully-homomorphic-encryption",
+              "gdpr",
+              "homomorphic-encryption",
+              "homomorphic-encryption-library",
+              "llvm",
+              "mlir",
+              "privacy",
+              "python",
+              "security",
+              "tfhe"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -624,12 +1002,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Concrete ML: Privacy Preserving ML framework using Fully Homomorphic Encryption (FHE), built on top of Concrete, with bindings to traditional ML frameworks.",
+            "homepage": null,
             "id": 473188634,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-04T11:50:16Z",
+            "open_issues": 21,
             "owner": "zama-ai",
             "repo": "concrete-ml",
-            "stars": 1447
+            "stars": 1447,
+            "topics": [
+              "data-science",
+              "fhe",
+              "fully-homomorphic-encryption",
+              "homomorphic-encryption",
+              "machine-learning",
+              "ppml",
+              "privacy",
+              "python",
+              "scikit-learn",
+              "tfhe",
+              "torch"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -640,12 +1035,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A compiler for homomorphic encryption",
+            "homepage": "https://heir.dev/",
             "id": 629208802,
             "language": "MLIR",
-            "last_commit": "2026-08-28T19:49:39Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:25:25Z",
+            "open_issues": 379,
             "owner": "google",
             "repo": "heir",
-            "stars": 884
+            "stars": 884,
+            "topics": [
+              "homomorphic-encryption",
+              "mlir"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -656,12 +1059,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cingulata (pronounced \"tchingulata\") is a compiler toolchain and RTE for running C++ programs over encrypted data by means of fully homomorphic encryption techniques.",
+            "homepage": null,
             "id": 110702353,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-13T12:35:02Z",
+            "open_issues": 4,
             "owner": "CEA-LIST",
             "repo": "Cingulata",
-            "stars": 410
+            "stars": 410,
+            "topics": [
+              "compiler",
+              "encryption",
+              "fhe",
+              "homomorphic-encryption",
+              "privacy",
+              "toolchain"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -672,12 +1087,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compiler for the SEAL homomorphic encryption library",
+            "homepage": null,
             "id": 302736639,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-07-03T18:06:04Z",
+            "open_issues": 32,
             "owner": "microsoft",
             "repo": "EVA",
-            "stars": 261
+            "stars": 261,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -688,12 +1108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "E3: Encrypt-Everything-Everywhere framework for compiling C++ programs with encrypted operands.",
+            "homepage": null,
             "id": 151524982,
             "language": "Pascal",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-03T11:43:11Z",
+            "open_issues": 1,
             "owner": "momalab",
             "repo": "e3",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -704,12 +1129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 280506107,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-05T13:57:30Z",
+            "open_issues": 14,
             "owner": "awslabs",
             "repo": "homomorphic-implementors-toolkit",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -720,12 +1150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Language and Compiler for Homomorphic Encryption Made easY",
+            "homepage": null,
             "id": 115025976,
             "language": "Haskell",
+            "license": "GPL-3.0",
             "last_commit": "2020-06-01T19:17:30Z",
+            "open_issues": 4,
             "owner": "cpeikert",
             "repo": "ALCHEMY",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -736,12 +1171,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SHEEP is a Homomorphic Encryption Evaluation Platform",
+            "homepage": null,
             "id": 113025590,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-04-07T17:43:59Z",
+            "open_issues": 24,
             "owner": "alan-turing-institute",
             "repo": "SHEEP",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "homomorphic-encryption",
+              "hut23",
+              "hut23-172",
+              "hut23-205"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -752,12 +1197,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IBM HElayers homomorphic encryption SDK for C++ and Python",
+            "homepage": "https://ibm.github.io/helayers/",
             "id": 415907414,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-30T09:29:14Z",
+            "open_issues": 4,
             "owner": "IBM",
             "repo": "helayers",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "docker-image",
+              "fhe",
+              "homomorphic-encryption",
+              "ibm",
+              "python",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -768,12 +1225,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross compiler and standardized benchmarks for fully homomorphic encryption",
+            "homepage": null,
             "id": 290877721,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-12-29T21:16:57Z",
+            "open_issues": 0,
             "owner": "TrustworthyComputing",
             "repo": "T2-FHE-Compiler-and-Benchmarks",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "benchmarks",
+              "compiler",
+              "fhe",
+              "helib",
+              "homomorphic-encryption",
+              "lattigo",
+              "palisade",
+              "seal",
+              "tfhe"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -784,12 +1256,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Marble FHE Library",
+            "homepage": "https://dl.acm.org/citation.cfm?id=3267978",
             "id": 144953290,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-12-23T12:26:48Z",
+            "open_issues": 0,
             "owner": "MarbleHE",
             "repo": "Marble",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "compiler",
+              "fhe"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         }
@@ -806,12 +1286,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framework for Encrypted Machine Learning in TensorFlow",
+            "homepage": "https://tf-encrypted.io/",
             "id": 126222784,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-25T05:32:38Z",
+            "open_issues": 144,
             "owner": "tf-encrypted",
             "repo": "tf-encrypted",
-            "stars": 1243
+            "stars": 1243,
+            "topics": [
+              "confidential-computing",
+              "cryptography",
+              "deep-learning",
+              "machine-learning",
+              "privacy",
+              "secure-computation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -827,12 +1320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenFHE-Based Examples of Logistic Regression Training using Nesterov Accelerated Gradient Descent",
+                "homepage": null,
                 "id": 629136264,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-05-21T01:34:24Z",
+                "open_issues": 3,
                 "owner": "openfheorg",
                 "repo": "openfhe-logreg-training-examples",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:50.928Z"
             },
@@ -843,12 +1341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenFHE-based implementation of Logistic Regression Approximation (LRA) and Chi-Square GWAS protocols described in \"Secure large-scale genome-wide association studies using homomorphic encryption\" (PNAS 2020) by Marcelo Blatt, Alexander Gusev, Yuriy Polyakov, and Shafi Goldwasser.",
+                "homepage": null,
                 "id": 547454387,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-07T21:02:52Z",
+                "open_issues": 0,
                 "owner": "openfheorg",
                 "repo": "openfhe-genomic-examples",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:50.928Z"
             },
@@ -859,24 +1362,44 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Encrypted Digital Circuit Evaluator using OpenFHE's FHEW/TFHE to execute digital circuits described in various formats. ",
+                "homepage": null,
                 "id": 558021915,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-10-26T18:18:52Z",
+                "open_issues": 0,
                 "owner": "openfheorg",
                 "repo": "openfhe-boolean-circuit-evaluator",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:31:50.928Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "This is the development repository for the OpenFHE library. The current version is 1.5.1 (released on April 10, 2026).",
+            "homepage": null,
             "id": 466273132,
             "language": "C++",
-            "last_commit": "2026-08-28T21:25:59Z",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-08-29T01:28:00Z",
+            "open_issues": 99,
             "owner": "openfheorg",
             "repo": "openfhe-development",
-            "stars": 1189
+            "stars": 1189,
+            "topics": [
+              "cpp",
+              "cryptography",
+              "fhe",
+              "fully-homomorphic-encryption",
+              "homomorphic-encryption",
+              "homomorphic-encryption-library",
+              "lattice",
+              "privacy",
+              "secure-multiparty-computation"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -887,12 +1410,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Privacy-Preserving Framework Based on TensorFlow",
+            "homepage": null,
             "id": 254110428,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2022-04-26T02:21:22Z",
+            "open_issues": 6,
             "owner": "LatticeX-Foundation",
             "repo": "Rosetta",
-            "stars": 550
+            "stars": 550,
+            "topics": [
+              "federated-learning",
+              "homomorphic-encryption",
+              "privacy-preserving-machine-learning",
+              "secure-computation",
+              "secure-multiparty-computation",
+              "zero-knowledge-proofs"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -903,12 +1438,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "nGraph-HE: Deep learning with Homomorphic Encryption (HE) through Intel nGraph",
+            "homepage": null,
             "id": 210706616,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-03T22:58:26Z",
+            "open_issues": 25,
             "owner": "intel",
             "repo": "he-transformer",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -919,12 +1459,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "testing out homomorphic encryption",
+            "homepage": null,
             "id": 63508628,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-04-10T18:37:23Z",
+            "open_issues": 3,
             "owner": "Georeactor",
             "repo": "encrypted-geofence",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "encryption",
+              "geofences",
+              "homomorphic-encryption",
+              "paillier"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -935,12 +1485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 317654986,
             "language": "Go",
+            "license": null,
             "last_commit": "2022-09-02T08:50:42Z",
+            "open_issues": 0,
             "owner": "ldsec",
             "repo": "lattigo-polls-demo",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -956,12 +1511,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Perform data science on data that remains in someone else's server",
+                "homepage": "https://www.openmined.org/",
                 "id": 97641933,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:54:07Z",
+                "open_issues": 21,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 9959
+                "stars": 9974,
+                "topics": [
+                  "cryptography",
+                  "deep-learning",
+                  "federated-learning",
+                  "hacktoberfest",
+                  "privacy",
+                  "python",
+                  "pytorch",
+                  "secure-computation",
+                  "syft"
+                ]
               },
               "first_seen": "2026-08-28T21:31:50.928Z"
             },
@@ -972,12 +1542,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Syft worker for Web and Node, built in Javascript",
+                "homepage": null,
                 "id": 115759768,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-07T18:59:26Z",
+                "open_issues": 79,
                 "owner": "OpenMined",
                 "repo": "syft.js",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "deep-learning",
+                  "hacktoberfest",
+                  "javascript",
+                  "privacy",
+                  "syft",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:31:50.928Z"
             },
@@ -988,12 +1570,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Syft worker for secure on-device machine learning",
+                "homepage": "https://www.openmined.org",
                 "id": 232324117,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-20T19:03:21Z",
+                "open_issues": 75,
                 "owner": "OpenMined",
                 "repo": "KotlinSyft",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "android-library",
+                  "deep-learning",
+                  "federated-learning",
+                  "kotlin",
+                  "security",
+                  "syft"
+                ]
               },
               "first_seen": "2026-08-28T21:31:50.928Z"
             },
@@ -1004,12 +1598,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Syft worker for iOS, built in Swift",
+                "homepage": null,
                 "id": 232324233,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2021-09-06T13:51:27Z",
+                "open_issues": 55,
                 "owner": "OpenMined",
                 "repo": "SwiftSyft",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "swift",
+                  "syft"
+                ]
               },
               "first_seen": "2026-08-28T21:31:50.928Z"
             }
@@ -1028,12 +1630,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "*This project is no longer actively maintained. If you'd like to become the maintainer, please let us know.* ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.",
+            "homepage": null,
             "id": 47479424,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2018-06-11T20:39:13Z",
+            "open_issues": 15,
             "owner": "nucypher",
             "repo": "zerodb",
-            "stars": 1546
+            "stars": 1546,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -1044,12 +1651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A database system that can process SQL queries over encrypted data.",
+            "homepage": null,
             "id": 15613792,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2016-12-15T10:50:29Z",
+            "open_issues": 9,
             "owner": "CryptDB",
             "repo": "cryptdb",
-            "stars": 520
+            "stars": 520,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -1060,12 +1672,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://timecrypt.io/",
             "id": 233794620,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-03T15:26:32Z",
+            "open_issues": 0,
             "owner": "TimeCrypt",
             "repo": "timecrypt",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "access-control",
+              "encryption",
+              "end-to-end-encryption",
+              "homomorphic-encryption",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -1076,12 +1699,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prisma/DB public releases and documentation.",
+            "homepage": null,
             "id": 83745928,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2020-08-24T07:55:09Z",
+            "open_issues": 10,
             "owner": "aprismatic",
             "repo": "prismadb",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "database",
+              "database-proxy",
+              "db-proxy",
+              "encrypted-database",
+              "encryption-tool",
+              "homomorphic-encryption",
+              "proxy",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -1092,12 +1729,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a proof-of-concept implementation of the framework proposed by [Alves and Aranha 2018] with the purpose of offering a wrapper on MongoDB's Python driver that enables a application to store and query encrypted data on the database.",
+            "homepage": null,
             "id": 67527616,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2018-01-15T17:57:51Z",
+            "open_issues": 0,
             "owner": "pdroalves",
             "repo": "encrypted-mongodb",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "cryptography",
+              "mongodb",
+              "mongodb-python-driver",
+              "privacy-preserving"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         }
@@ -1114,12 +1761,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of cryptography resources and links.",
+            "homepage": null,
             "id": 59573221,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-15T08:39:47Z",
+            "open_issues": 72,
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7092
+            "stars": 7092,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "crypto",
+              "cryptography",
+              "encryption",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -1130,12 +1789,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of cryptography papers, articles, tutorials and howtos.",
+            "homepage": null,
             "id": 82925053,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-10-17T18:13:08Z",
+            "open_issues": 4,
             "owner": "pFarb",
             "repo": "awesome-crypto-papers",
-            "stars": 2093
+            "stars": 2093,
+            "topics": [
+              "applied-cryptography",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "cryptography",
+              "howto"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -1146,12 +1817,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A curated list of multi party computation resources and links.",
+            "homepage": null,
             "id": 88106598,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-24T13:46:57Z",
+            "open_issues": 8,
             "owner": "rdragos",
             "repo": "awesome-mpc",
-            "stars": 1994
+            "stars": 1994,
+            "topics": [
+              "crypto",
+              "multiparty-computation",
+              "secure-computation"
+            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         }
@@ -1160,15 +1840,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:31:50.928Z",
+    "last_updated": "2026-08-29T04:33:38.694Z",
     "original_repository_info": {
       "archived": false,
+      "description": "✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources",
+      "homepage": null,
       "id": 122284251,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-03-25T11:22:47Z",
+      "open_issues": 9,
       "owner": "jonaschn",
       "repo": "awesome-he",
-      "stars": 1256
+      "stars": 1256,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cryptography",
+        "homomorphic-cryptography-scheme",
+        "homomorphic-encryption",
+        "homomorphic-encryption-library",
+        "security"
+      ]
     },
     "original_repository_sha": "d2a825c3f720f5725cc73e22806e2483c021efa2",
     "enhanced_repository": "enhansome/enhansome-he",
