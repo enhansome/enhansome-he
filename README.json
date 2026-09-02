@@ -15,11 +15,11 @@
             "id": 976568879,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T15:16:38Z",
-            "open_issues": 128,
+            "last_commit": "2026-09-02T15:16:57Z",
+            "open_issues": 132,
             "owner": "zama-ai",
             "repo": "fhevm",
-            "stars": 24818,
+            "stars": 24819,
             "topics": [
               "blockchain",
               "fhe",
@@ -44,7 +44,7 @@
             "open_issues": 113,
             "owner": "microsoft",
             "repo": "SEAL",
-            "stars": 4024,
+            "stars": 4025,
             "topics": [
               "cryptography",
               "encryption",
@@ -69,7 +69,7 @@
             "open_issues": 194,
             "owner": "homenc",
             "repo": "HElib",
-            "stars": 3249,
+            "stars": 3250,
             "topics": [
               "bgv",
               "crypto",
@@ -96,11 +96,11 @@
             "id": 550755640,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T15:16:20Z",
-            "open_issues": 64,
+            "last_commit": "2026-09-02T15:10:12Z",
+            "open_issues": 61,
             "owner": "zama-ai",
             "repo": "tfhe-rs",
-            "stars": 1648,
+            "stars": 1649,
             "topics": [
               "cryptography",
               "homomorphic-encryption",
@@ -126,7 +126,7 @@
             "open_issues": 10,
             "owner": "tuneinsight",
             "repo": "lattigo",
-            "stars": 1441,
+            "stars": 1442,
             "topics": [
               "homomorphic-encryption",
               "lattice-based-crypto",
@@ -151,7 +151,7 @@
             "open_issues": 46,
             "owner": "tfhe",
             "repo": "tfhe",
-            "stars": 1326,
+            "stars": 1327,
             "topics": [
               "cloud-computing",
               "cryptography",
@@ -172,11 +172,11 @@
             "id": 466273132,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-01T03:40:11Z",
+            "last_commit": "2026-09-01T21:06:31Z",
             "open_issues": 95,
             "owner": "openfheorg",
             "repo": "openfhe-development",
-            "stars": 1193,
+            "stars": 1194,
             "topics": [
               "cpp",
               "cryptography",
@@ -588,7 +588,7 @@
             "open_issues": 8,
             "owner": "encryptorion-lab",
             "repo": "phantom-fhe",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "cuda",
               "gpu",
@@ -614,7 +614,7 @@
             "open_issues": 7,
             "owner": "Alisah-Ozcan",
             "repo": "HEonGPU",
-            "stars": 138,
+            "stars": 139,
             "topics": [
               "bfv",
               "bootstrapping",
@@ -974,7 +974,7 @@
             "open_issues": 57,
             "owner": "zama-ai",
             "repo": "concrete",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "compiler",
               "crypto",
@@ -1011,7 +1011,7 @@
             "open_issues": 21,
             "owner": "zama-ai",
             "repo": "concrete-ml",
-            "stars": 1448,
+            "stars": 1449,
             "topics": [
               "data-science",
               "fhe",
@@ -1040,11 +1040,11 @@
             "id": 629208802,
             "language": "MLIR",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T13:27:12Z",
-            "open_issues": 388,
+            "last_commit": "2026-09-02T14:28:57Z",
+            "open_issues": 377,
             "owner": "google",
             "repo": "heir",
-            "stars": 885,
+            "stars": 886,
             "topics": [
               "homomorphic-encryption",
               "mlir"
@@ -1096,7 +1096,7 @@
             "open_issues": 32,
             "owner": "microsoft",
             "repo": "EVA",
-            "stars": 261,
+            "stars": 262,
             "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
@@ -1384,11 +1384,11 @@
             "id": 466273132,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-01T03:40:11Z",
+            "last_commit": "2026-09-01T21:06:31Z",
             "open_issues": 95,
             "owner": "openfheorg",
             "repo": "openfhe-development",
-            "stars": 1193,
+            "stars": 1194,
             "topics": [
               "cpp",
               "cryptography",
@@ -1516,11 +1516,11 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T19:54:07Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-02T14:37:38Z",
+                "open_issues": 21,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10021,
+                "stars": 10022,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -1770,7 +1770,7 @@
             "open_issues": 73,
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7099,
+            "stars": 7100,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1840,7 +1840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:32:59.547Z",
+    "last_updated": "2026-09-02T15:18:10.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources",
