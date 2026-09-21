@@ -15,11 +15,11 @@
             "id": 976568879,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T17:40:30Z",
-            "open_issues": 109,
+            "last_commit": "2026-09-21T16:52:47Z",
+            "open_issues": 110,
             "owner": "zama-ai",
             "repo": "fhevm",
-            "stars": 24814,
+            "stars": 24813,
             "topics": [
               "blockchain",
               "fhe",
@@ -96,8 +96,8 @@
             "id": 550755640,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T02:54:00Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-21T14:55:55Z",
+            "open_issues": 55,
             "owner": "zama-ai",
             "repo": "tfhe-rs",
             "stars": 1663,
@@ -126,7 +126,7 @@
             "open_issues": 12,
             "owner": "tuneinsight",
             "repo": "lattigo",
-            "stars": 1447,
+            "stars": 1448,
             "topics": [
               "homomorphic-encryption",
               "lattice-based-crypto",
@@ -1041,10 +1041,10 @@
             "language": "MLIR",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T17:54:19Z",
-            "open_issues": 368,
+            "open_issues": 369,
             "owner": "google",
             "repo": "heir",
-            "stars": 910,
+            "stars": 911,
             "topics": [
               "homomorphic-encryption",
               "mlir"
@@ -1203,7 +1203,7 @@
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
             "last_commit": "2026-06-30T09:29:14Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "IBM",
             "repo": "helayers",
             "stars": 48,
@@ -1516,11 +1516,11 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T20:19:53Z",
+                "last_commit": "2026-09-21T13:26:31Z",
                 "open_issues": 17,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10032,
+                "stars": 10033,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -1770,7 +1770,7 @@
             "open_issues": 75,
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7122,
+            "stars": 7123,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1798,7 +1798,7 @@
             "open_issues": 4,
             "owner": "pFarb",
             "repo": "awesome-crypto-papers",
-            "stars": 2098,
+            "stars": 2099,
             "topics": [
               "applied-cryptography",
               "awesome",
@@ -1840,7 +1840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:51:50.586Z",
+    "last_updated": "2026-09-21T17:11:52.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources",
