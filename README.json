@@ -15,11 +15,11 @@
             "id": 976568879,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T16:34:17Z",
-            "open_issues": 106,
+            "last_commit": "2026-10-02T23:13:56Z",
+            "open_issues": 103,
             "owner": "zama-ai",
             "repo": "fhevm",
-            "stars": 24802,
+            "stars": 24801,
             "topics": [
               "blockchain",
               "fhe",
@@ -96,8 +96,8 @@
             "id": 550755640,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T16:46:49Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-02T18:13:34Z",
+            "open_issues": 61,
             "owner": "zama-ai",
             "repo": "tfhe-rs",
             "stars": 1667,
@@ -563,7 +563,7 @@
             "id": 580440874,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-01T22:49:31Z",
+            "last_commit": "2026-10-02T17:15:16Z",
             "open_issues": 14,
             "owner": "openfheorg",
             "repo": "openfhe-python",
@@ -945,7 +945,7 @@
             "open_issues": 13,
             "owner": "google",
             "repo": "fully-homomorphic-encryption",
-            "stars": 3773,
+            "stars": 3772,
             "topics": [
               "compiler",
               "cryptography",
@@ -1040,11 +1040,11 @@
             "id": 629208802,
             "language": "MLIR",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:07:18Z",
+            "last_commit": "2026-10-03T01:55:00Z",
             "open_issues": 374,
             "owner": "google",
             "repo": "heir",
-            "stars": 926,
+            "stars": 927,
             "topics": [
               "homomorphic-encryption",
               "mlir"
@@ -1757,7 +1757,7 @@
         {
           "node_type": "item",
           "title": "awesome-cryptography",
-          "description": null,
+          "description": "sobolevn/awesome-cryptography",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1785,7 +1785,7 @@
         {
           "node_type": "item",
           "title": "awesome-crypto-papers",
-          "description": null,
+          "description": "pFarb/awesome-crypto-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1840,7 +1840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:49:48.872Z",
+    "last_updated": "2026-10-03T04:50:07.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources",

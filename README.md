@@ -14,10 +14,10 @@
 
 Libraries that can be used to implement applications using (Fully) Homomorphic Encryption.
 
-* [fhEVM](https://github.com/zama-ai/fhevm) ⭐ 24,802 | 🐛 106 | 🌐 Rust | 📅 2026-10-02 - Solidity library that enables confidential smart contracts on the Ethereum VM using FHE.
+* [fhEVM](https://github.com/zama-ai/fhevm) ⭐ 24,801 | 🐛 103 | 🌐 Rust | 📅 2026-10-02 - Solidity library that enables confidential smart contracts on the Ethereum VM using FHE.
 * <a name="SEAL">[Microsoft SEAL](https://github.com/microsoft/SEAL) ⭐ 4,040 | 🐛 113 | 🌐 C++ | 📅 2026-09-14 - C++ FHE library implementing BFV and CKKS schemes.</a>
 * <a name="HElib">[HElib](https://github.com/HomEnc/HElib) ⭐ 3,249 | 🐛 194 | 🌐 C++ | 📅 2024-08-01 - BGV scheme with bootstrapping and the Approximate Number CKKS scheme.
-* [TFHE-rs](https://github.com/zama-ai/tfhe-rs) ⭐ 1,667 | 🐛 62 | 🌐 Rust | 📅 2026-10-02 - Rust implementation of the TFHE scheme for boolean and integers FHE arithmetics by [Zama](https://github.com/zama-ai).
+* [TFHE-rs](https://github.com/zama-ai/tfhe-rs) ⭐ 1,667 | 🐛 61 | 🌐 Rust | 📅 2026-10-02 - Rust implementation of the TFHE scheme for boolean and integers FHE arithmetics by [Zama](https://github.com/zama-ai).
 * <a name="lattigo">[lattigo](https://github.com/ldsec/lattigo) ⭐ 1,452 | 🐛 16 | 🌐 Go | 📅 2026-09-28 - Go library for lattice-based crypto that implements various schemes.
 * <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) ⭐ 1,333 | 🐛 46 | 🌐 C++ | 📅 2025-09-17 - Faster fully HE: Bootstrapping in less than 0.1 seconds.</a>
 * <a name="OpenFHE">[OpenFHE](https://github.com/openfheorg/openfhe-development) ⭐ 1,203 | 🐛 91 | 🌐 C++ | 📅 2026-09-28 - C++ FHE library implementing all major schemes along with bootstrapping and scheme switching.
@@ -35,7 +35,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 * [node-seal](https://github.com/morfix-io/node-seal) ⭐ 217 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-09 - JavaScript/WebAssembly port of [Microsoft SEAL](#SEAL).
 * [cuHE](https://github.com/vernamlab/cuHE) ⭐ 212 | 🐛 4 | 🌐 Cuda | 📅 2017-06-08 - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs.
 * [NFLlib](https://github.com/quarkslab/NFLlib) ⭐ 181 | 🐛 11 | 🌐 C++ | 📅 2022-10-14 - NTT-based Fast Lattice library specialized on power-of-two polynomials.
-* <a name="OpenFHE-Python">[OpenFHE-Python](https://github.com/openfheorg/openfhe-python) ⭐ 165 | 🐛 14 | 🌐 C++ | 📅 2026-10-01 - Python wrapper for [OpenFHE](#OpenFHE).
+* <a name="OpenFHE-Python">[OpenFHE-Python](https://github.com/openfheorg/openfhe-python) ⭐ 165 | 🐛 14 | 🌐 C++ | 📅 2026-10-02 - Python wrapper for [OpenFHE](#OpenFHE).
 * [PhantomFHE](https://github.com/encryptorion-lab/phantom-fhe) ⭐ 161 | 🐛 8 | 🌐 Cuda | 📅 2025-01-01 - A CUDA-Accelerated Fully Homomorphic Encryption Library.
 * [HEonGPU](https://github.com/Alisah-Ozcan/HEonGPU) ⭐ 140 | 🐛 7 | 🌐 Cuda | 📅 2026-05-11 -  CUDA-accelerated FHE library on GPUs (BFV, CKKS, MPC).
 * [petlib](https://github.com/gdanezis/petlib) ⭐ 136 | 🐛 12 | 🌐 Python | 📅 2022-10-26 - Python library that implements a number of Privacy Enhancing Technologies.
@@ -55,10 +55,10 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 
 ## Toolkits
 
-* [Google's FHE Repository](https://github.com/google/fully-homomorphic-encryption) ⭐ 3,773 | 🐛 13 | 🌐 Starlark | 📅 2026-09-30 - A compiler that converts a subset of C++ programs into FHE circuits implemented in various backend libraries (superseded by [HEIR](#HEIR)).
+* [Google's FHE Repository](https://github.com/google/fully-homomorphic-encryption) ⭐ 3,772 | 🐛 13 | 🌐 Starlark | 📅 2026-09-30 - A compiler that converts a subset of C++ programs into FHE circuits implemented in various backend libraries (superseded by [HEIR](#HEIR)).
 * [Concrete](https://github.com/zama-ai/concrete) ⭐ 1,580 | 🐛 58 | 🌐 C++ | 📅 2025-12-19 - TFHE compiler for converting Python programs into FHE equivalents.
 * [Concrete-ML](https://github.com/zama-ai/concrete-ml) ⭐ 1,453 | 🐛 21 | 🌐 Python | 📅 2026-08-04 - Python-based toolkit for data scientists w/o prior FHE knowledge (using sklearn, pyTorch, XGBoost models).
-* <a name="HEIR">[HEIR](https://github.com/google/heir) ⭐ 926 | 🐛 374 | 🌐 MLIR | 📅 2026-10-02 - Google's MLIR-based toolchain for FHE compilers.
+* <a name="HEIR">[HEIR](https://github.com/google/heir) ⭐ 927 | 🐛 374 | 🌐 MLIR | 📅 2026-10-03 - Google's MLIR-based toolchain for FHE compilers.
 * [Cingulata](https://github.com/CEA-LIST/Cingulata) ⭐ 412 | 🐛 4 | 🌐 C++ | 📅 2025-06-13 - Compiler toolchain and RTE for running C++ programs over encrypted data.
 * [EVA](https://github.com/microsoft/EVA) ⭐ 263 | 🐛 32 | 🌐 C++ | 📅 2024-07-03 - A compiler and optimizer for the CKKS scheme (targeting [Microsoft SEAL](#SEAL)).
 * [E3](https://github.com/momalab/e3) ⭐ 98 | 🐛 1 | 🌐 Pascal | 📅 2023-03-03 - Encrypt-Everything-Everywhere framework for compiling C++ programs with encrypted operands.
@@ -123,9 +123,9 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Like this work?
 
-✨ Star this project on GitHub [![GitHub Repo stars](https://img.shields.io/github/stars/jonaschn/awesome-he?style=social)](https://github.com/jonaschn/awesome-he) ⭐ 1,257 | 🐛 9 | 📅 2025-03-25
+✨ Star this project on GitHub [![GitHub Repo stars](https://img.shields.io/github/stars/jonaschn/awesome-he?style=social)](https://github.com/jonaschn/awesome-he)
 
-🚀 Contribute further [awesome HE](https://github.com/jonaschn/awesome-he/edit/master/README.md) ⭐ 1,257 | 🐛 9 | 📅 2025-03-25 projects
+🚀 Contribute further [awesome HE](https://github.com/jonaschn/awesome-he/edit/master/README.md) projects
 
 💸 Spare me some ~~coffee~~ tea 🍵 via [Paypal](https://www.paypal.me/JonathanSchneiderDE/3)
 
@@ -138,4 +138,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
