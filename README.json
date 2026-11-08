@@ -15,8 +15,8 @@
             "id": 976568879,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T11:27:00Z",
-            "open_issues": 121,
+            "last_commit": "2026-11-08T12:08:12Z",
+            "open_issues": 120,
             "owner": "zama-ai",
             "repo": "fhevm",
             "stars": 24744,
@@ -44,7 +44,7 @@
             "open_issues": 110,
             "owner": "microsoft",
             "repo": "SEAL",
-            "stars": 4063,
+            "stars": 4062,
             "topics": [
               "cryptography",
               "encryption",
@@ -96,8 +96,8 @@
             "id": 550755640,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T18:01:47Z",
-            "open_issues": 56,
+            "last_commit": "2026-11-08T02:52:54Z",
+            "open_issues": 57,
             "owner": "zama-ai",
             "repo": "tfhe-rs",
             "stars": 1679,
@@ -207,7 +207,7 @@
             "open_issues": 137,
             "owner": "OpenMined",
             "repo": "TenSEAL",
-            "stars": 1041,
+            "stars": 1042,
             "topics": [
               "cpp",
               "cryptography",
@@ -484,7 +484,7 @@
             "id": 190240163,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T21:50:38Z",
+            "last_commit": "2026-11-07T20:02:31Z",
             "open_issues": 0,
             "owner": "s0l0ist",
             "repo": "node-seal",
@@ -945,7 +945,7 @@
             "open_issues": 16,
             "owner": "google",
             "repo": "fully-homomorphic-encryption",
-            "stars": 3786,
+            "stars": 3787,
             "topics": [
               "compiler",
               "cryptography",
@@ -974,7 +974,7 @@
             "open_issues": 58,
             "owner": "zama-ai",
             "repo": "concrete",
-            "stars": 1583,
+            "stars": 1584,
             "topics": [
               "compiler",
               "crypto",
@@ -1040,7 +1040,7 @@
             "id": 629208802,
             "language": "MLIR",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T09:30:18Z",
+            "last_commit": "2026-11-08T02:17:34Z",
             "open_issues": 343,
             "owner": "google",
             "repo": "heir",
@@ -1770,7 +1770,7 @@
             "open_issues": 82,
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7195,
+            "stars": 7197,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1840,7 +1840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:59:22.143Z",
+    "last_updated": "2026-11-08T17:14:39.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources",
