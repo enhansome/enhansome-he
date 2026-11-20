@@ -15,11 +15,11 @@
             "id": 976568879,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T19:20:42Z",
-            "open_issues": 140,
+            "last_commit": "2026-11-20T18:53:03Z",
+            "open_issues": 144,
             "owner": "zama-ai",
             "repo": "fhevm",
-            "stars": 24723,
+            "stars": 24721,
             "topics": [
               "blockchain",
               "fhe",
@@ -69,7 +69,7 @@
             "open_issues": 195,
             "owner": "homenc",
             "repo": "HElib",
-            "stars": 3252,
+            "stars": 3251,
             "topics": [
               "bgv",
               "crypto",
@@ -96,11 +96,11 @@
             "id": 550755640,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T18:11:53Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-20T18:45:13Z",
+            "open_issues": 64,
             "owner": "zama-ai",
             "repo": "tfhe-rs",
-            "stars": 1682,
+            "stars": 1681,
             "topics": [
               "cryptography",
               "homomorphic-encryption",
@@ -151,7 +151,7 @@
             "open_issues": 46,
             "owner": "tfhe",
             "repo": "tfhe",
-            "stars": 1336,
+            "stars": 1335,
             "topics": [
               "cloud-computing",
               "cryptography",
@@ -172,8 +172,8 @@
             "id": 466273132,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-18T22:36:00Z",
-            "open_issues": 96,
+            "last_commit": "2026-11-20T06:41:09Z",
+            "open_issues": 97,
             "owner": "openfheorg",
             "repo": "openfhe-development",
             "stars": 1224,
@@ -207,7 +207,7 @@
             "open_issues": 137,
             "owner": "OpenMined",
             "repo": "TenSEAL",
-            "stars": 1043,
+            "stars": 1042,
             "topics": [
               "cpp",
               "cryptography",
@@ -265,7 +265,7 @@
             "open_issues": 7,
             "owner": "ibarrond",
             "repo": "Pyfhel",
-            "stars": 554,
+            "stars": 553,
             "topics": [
               "cython",
               "encrypted-computation",
@@ -296,7 +296,7 @@
             "open_issues": 25,
             "owner": "nucypher",
             "repo": "nufhe",
-            "stars": 454,
+            "stars": 453,
             "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
@@ -317,38 +317,8 @@
             "open_issues": 3,
             "owner": "facebookresearch",
             "repo": "Cupcake",
-            "stars": 420,
+            "stars": 419,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:31:50.928Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SEAL-python",
-          "description": "Python binding for the Microsoft SEAL library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Microsoft SEAL 4.X For Python",
-            "homepage": null,
-            "id": 196965816,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2026-08-03T07:48:51Z",
-            "open_issues": 0,
-            "owner": "Huelse",
-            "repo": "SEAL-Python",
-            "stars": 350,
-            "topics": [
-              "encryption",
-              "he",
-              "homomorphic-encryption",
-              "microsoft-seal",
-              "pyseal",
-              "python-bindings",
-              "seal",
-              "seal-python"
-            ]
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
         },
@@ -379,6 +349,36 @@
         },
         {
           "node_type": "item",
+          "title": "SEAL-python",
+          "description": "Python binding for the Microsoft SEAL library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Microsoft SEAL 4.X For Python",
+            "homepage": null,
+            "id": 196965816,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-08-03T07:48:51Z",
+            "open_issues": 0,
+            "owner": "Huelse",
+            "repo": "SEAL-Python",
+            "stars": 348,
+            "topics": [
+              "encryption",
+              "he",
+              "homomorphic-encryption",
+              "microsoft-seal",
+              "pyseal",
+              "python-bindings",
+              "seal",
+              "seal-python"
+            ]
+          },
+          "first_seen": "2026-08-28T21:31:50.928Z"
+        },
+        {
+          "node_type": "item",
           "title": "Sunscreen",
           "description": "Rust compiler for the BFV fully homomorphic encryption scheme.",
           "children": [],
@@ -393,7 +393,7 @@
             "open_issues": 15,
             "owner": "Sunscreen-tech",
             "repo": "Sunscreen",
-            "stars": 310,
+            "stars": 309,
             "topics": [
               "cryptography",
               "homomorphic-encryption",
@@ -945,7 +945,7 @@
             "open_issues": 16,
             "owner": "google",
             "repo": "fully-homomorphic-encryption",
-            "stars": 3785,
+            "stars": 3784,
             "topics": [
               "compiler",
               "cryptography",
@@ -974,7 +974,7 @@
             "open_issues": 58,
             "owner": "zama-ai",
             "repo": "concrete",
-            "stars": 1585,
+            "stars": 1584,
             "topics": [
               "compiler",
               "crypto",
@@ -1011,7 +1011,7 @@
             "open_issues": 17,
             "owner": "zama-ai",
             "repo": "concrete-ml",
-            "stars": 1459,
+            "stars": 1460,
             "topics": [
               "data-science",
               "fhe",
@@ -1040,7 +1040,7 @@
             "id": 629208802,
             "language": "MLIR",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T18:45:41Z",
+            "last_commit": "2026-11-20T18:58:00Z",
             "open_issues": 347,
             "owner": "google",
             "repo": "heir",
@@ -1295,7 +1295,7 @@
             "open_issues": 144,
             "owner": "tf-encrypted",
             "repo": "tf-encrypted",
-            "stars": 1241,
+            "stars": 1240,
             "topics": [
               "confidential-computing",
               "cryptography",
@@ -1384,8 +1384,8 @@
             "id": 466273132,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-18T22:36:00Z",
-            "open_issues": 96,
+            "last_commit": "2026-11-20T06:41:09Z",
+            "open_issues": 97,
             "owner": "openfheorg",
             "repo": "openfhe-development",
             "stars": 1224,
@@ -1516,11 +1516,11 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T16:54:21Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-20T16:30:28Z",
+                "open_issues": 10,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10061,
+                "stars": 10062,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -1639,7 +1639,7 @@
             "open_issues": 15,
             "owner": "nucypher",
             "repo": "zerodb",
-            "stars": 1542,
+            "stars": 1541,
             "topics": []
           },
           "first_seen": "2026-08-28T21:31:50.928Z"
@@ -1767,10 +1767,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-07-15T08:39:47Z",
-            "open_issues": 82,
+            "open_issues": 84,
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7212,
+            "stars": 7214,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1798,7 +1798,7 @@
             "open_issues": 4,
             "owner": "pFarb",
             "repo": "awesome-crypto-papers",
-            "stars": 2113,
+            "stars": 2111,
             "topics": [
               "applied-cryptography",
               "awesome",
@@ -1840,7 +1840,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:37:41.801Z",
+    "last_updated": "2026-11-20T19:15:53.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources",
@@ -1852,7 +1852,7 @@
       "open_issues": 10,
       "owner": "jonaschn",
       "repo": "awesome-he",
-      "stars": 1264,
+      "stars": 1263,
       "topics": [
         "awesome",
         "awesome-list",
