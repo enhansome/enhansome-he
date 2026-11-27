@@ -5,31 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "fhEVM",
-          "description": "Solidity library that enables confidential smart contracts on the Ethereum VM using FHE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
-            "homepage": null,
-            "id": 976568879,
-            "language": "Rust",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-26T20:30:37Z",
-            "open_issues": 161,
-            "owner": "zama-ai",
-            "repo": "fhevm",
-            "stars": 24718,
-            "topics": [
-              "blockchain",
-              "fhe",
-              "privacy"
-            ]
-          },
-          "first_seen": "2026-08-28T21:31:50.928Z"
-        },
-        {
-          "node_type": "item",
           "title": "Microsoft SEAL",
           "description": "C++ FHE library implementing BFV and CKKS schemes.",
           "children": [],
@@ -96,11 +71,11 @@
             "id": 550755640,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T17:31:03Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-27T19:24:39Z",
+            "open_issues": 77,
             "owner": "zama-ai",
             "repo": "tfhe-rs",
-            "stars": 1685,
+            "stars": 1684,
             "topics": [
               "cryptography",
               "homomorphic-encryption",
@@ -172,11 +147,11 @@
             "id": 466273132,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-26T19:28:17Z",
+            "last_commit": "2026-11-27T15:28:14Z",
             "open_issues": 127,
             "owner": "openfheorg",
             "repo": "openfhe-development",
-            "stars": 1226,
+            "stars": 1230,
             "topics": [
               "cpp",
               "cryptography",
@@ -941,11 +916,11 @@
             "id": 364705340,
             "language": "Starlark",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T14:14:41Z",
+            "last_commit": "2026-11-27T09:52:29Z",
             "open_issues": 17,
             "owner": "google",
             "repo": "fully-homomorphic-encryption",
-            "stars": 3785,
+            "stars": 3786,
             "topics": [
               "compiler",
               "cryptography",
@@ -974,7 +949,7 @@
             "open_issues": 58,
             "owner": "zama-ai",
             "repo": "concrete",
-            "stars": 1585,
+            "stars": 1584,
             "topics": [
               "compiler",
               "crypto",
@@ -1011,7 +986,7 @@
             "open_issues": 17,
             "owner": "zama-ai",
             "repo": "concrete-ml",
-            "stars": 1462,
+            "stars": 1461,
             "topics": [
               "data-science",
               "fhe",
@@ -1040,11 +1015,11 @@
             "id": 629208802,
             "language": "MLIR",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T15:20:32Z",
+            "last_commit": "2026-11-27T03:41:04Z",
             "open_issues": 342,
             "owner": "google",
             "repo": "heir",
-            "stars": 953,
+            "stars": 954,
             "topics": [
               "homomorphic-encryption",
               "mlir"
@@ -1384,11 +1359,11 @@
             "id": 466273132,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-26T19:28:17Z",
+            "last_commit": "2026-11-27T15:28:14Z",
             "open_issues": 127,
             "owner": "openfheorg",
             "repo": "openfhe-development",
-            "stars": 1226,
+            "stars": 1230,
             "topics": [
               "cpp",
               "cryptography",
@@ -1767,10 +1742,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-07-15T08:39:47Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7224,
+            "stars": 7223,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1840,7 +1815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T20:32:47.013Z",
+    "last_updated": "2026-11-27T20:18:45.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ Awesome - A curated list of amazing Homomorphic Encryption libraries, software and resources",
